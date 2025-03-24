@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Weiqiang Guo / Site Title"
 title_separator          : "-"
 name                     : &name "Weiqiang Guo"
 description              : &description "personal description"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Weiqiang Guo"
+  name             : "郭炜强"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "过分展望未来就会看不清脚下的路。"
+  location         : "Guangzhou"
+  employer         : "Guangzhou University"
   uri              : # URL
   email            : "none@example.org" 
 
