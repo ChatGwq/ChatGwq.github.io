@@ -21,5 +21,5 @@ You can find my CV here: [Gwq's Curriculum Vitae](../assets/Curriculum_Vitae.pdf
 
 你可以在这里找到我的简历：[Gwq的简历](../assets/Curriculum_Vitae.pdf)。
 
-[Email](gwqee@e.gzhu.edu.cn) / [Github](https://github.com/ChatGwq) / [Wechat](../images/wechat.jpg) 
+[Email](gwqee@e.gzhu.edu.cn) / [Github](https://github.com/ChatGwq) / [Wechat](../images/wechat.png) 
 ————————————————
