@@ -15,7 +15,7 @@ You can find my CV here: [Gwq's Curriculum Vitae](../assets/Curriculum_Vitae.pdf
 
 ---
 
-我是一名来自[广州大学](https://www.gzhu.edu.cn/)[计算机科学与网络工程学院](https://jsj.gzhu.edu.cn/)的三年级本科生。我的研究兴趣包括计算机科学、机器学习和数据科学。
+我是一名来自[广州大学](https://www.gzhu.edu.cn/)[计算机科学与网络工程学院](https://jsj.gzhu.edu.cn/)的三年级本科生。我的研究方向包括计算机科学、机器学习和数据科学。
 
 我很荣幸能得到来自广州大学[计算机科学与网络工程学院](https://jsj.gzhu.edu.cn/)[肖老师](https://jsj.gzhu.edu.cn/info/1842/3751.htm)的指导。
 
