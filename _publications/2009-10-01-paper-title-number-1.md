@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '使用BFS、DFS以及两种启发式搜索分析比较不同算法之间的优缺点'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://chatgwq.github.io/files/paper1.pdf'
 ---
 
 基于图搜索技术对八数码问题进行求解，实现了广度优先搜索（BFS）、深度优先搜索（DFS）以及两种启发式搜索（曼哈顿距离与错位计数）。对比分析了不同搜索算法的优缺点以及启发式函数的影响。BFS虽然简单且易于实现，但在大规模问题中易导致存储问题。
