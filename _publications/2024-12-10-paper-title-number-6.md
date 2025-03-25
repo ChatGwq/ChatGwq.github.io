@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-12-10-paper-title-number-6
 excerpt: '结合多种数学模型和启发式算法，针对外国游客在中国的短期旅行进行优化的路径规划.'
 date: 2024-12-10
-paperurl: 'http://chatgwq.github.io/files/yataibei.pdf'
+paperurl: 'http://chatgwq.github.io/files/huashubei.pdf'
 ---
 
 ## 1. 数据预处理与景点评分分析
