@@ -66,9 +66,7 @@ redirect_from:
  *  管理能力：擅长协调平衡团队成员的竞争与合作的关系，提高团队凝聚力。
  *  个人品质：细心谨慎、吃苦耐劳、遇事沉稳，拥有较强的抗压能力。
   
-Talks
+其他
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+ * 一项外观专利：显示屏支架
+ * 一项软件著作权：软件工程代码测试控制系统
