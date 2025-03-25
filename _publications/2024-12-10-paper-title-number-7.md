@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-12-10-paper-title-number-7
 excerpt: '通过数据分析和预测模型探讨了中国及全球宠物食品行业的发展趋势，并提出了相应的可持续发展策略.'
 date: 2024-12-20
-paperurl: 'http://chatgwq.github.io/files/huashubei.pdf'
+paperurl: 'http://chatgwq.github.io/files/yataibei.pdf'
 ---
 
 ## 1. 数据收集与预处理
