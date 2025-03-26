@@ -51,7 +51,7 @@ redirect_from:
   
 掌握技能
 ======
-* matlab
+* matlab 
 * python
 * stata
 * office
