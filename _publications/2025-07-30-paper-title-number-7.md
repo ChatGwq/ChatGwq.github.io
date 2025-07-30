@@ -1,5 +1,5 @@
 ---
-title: "分析和预测中国及全球宠物食品行业的未来发展趋势"
+title: "通往金牌之路：奥林匹克奖牌的预测与分析"
 collection: publications
 category: conferences
 permalink: /publication/2025-7-30-paper-title-number-7
