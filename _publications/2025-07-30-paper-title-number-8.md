@@ -1,3 +1,12 @@
+---
+title: "基于 EAC-GWO-Attention-LSTM模型的短时交通流量预测模型探究--以嘉兴市为例"
+collection: publications
+category: conferences
+permalink: /publication/2025-7-30-paper-title-number-7
+excerpt: '通过构建多模型对比与优化方法，研究了嘉兴市短时交通流量的预测精度提升路径，并提出了智慧交通管理与可持续出行的优化策略.'
+date: 2025-7-30
+paperurl: 'http://chatgwq.github.io/files/tongjijianmo.pdf'
+---
 
 ## 1. 数据收集与预处理
 - **数据来源**：使用嘉兴市智慧交通研究中心提供的开源交通流量数据，包括三个连续路口两个月内每周三的车道级别流量信息（15 分钟为时间单位，共 28416 条记录）。
