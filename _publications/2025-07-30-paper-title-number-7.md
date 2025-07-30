@@ -3,7 +3,7 @@ title: "通往金牌之路：奥林匹克奖牌的预测与分析"
 collection: publications
 category: conferences
 permalink: /publication/2025-7-30-paper-title-number-7
-excerpt: '通过数据分析和预测模型探讨了中国及全球宠物食品行业的发展趋势，并提出了相应的可持续发展策略.'
+excerpt: '通过构建多种统计与预测模型，系统分析了中国及全球奥运奖牌发展趋势，并提出了面向国家投资、项目布局和“名帅效应”利用的策略性建议.'
 date: 2025-7-30
 paperurl: 'http://chatgwq.github.io/files/meisai.pdf'
 ---
